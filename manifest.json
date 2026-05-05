@@ -1,6 +1,6 @@
 {
-  "short_name": "Homepage",
-  "name": "Homepage",
+  "short_name": "Home",
+  "name": "Home",
   "description": "Core app for SIMS homepage",
   "icons": [
     {

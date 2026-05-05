@@ -1,7 +1,7 @@
 {
   "type": "app",
   "name": "homepage",
-  "title": "Homepage",
+  "title": "Home",
   "description": "Core app for SIMS homepage",
   "coreApp": true,
   "minDHIS2Version": "2.41",
