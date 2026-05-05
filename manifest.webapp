@@ -1,7 +1,8 @@
 {
+  "app_hub_id": "7809d6fb-7cdb-4161-89cf-cab404001c54",
   "appType": "APP",
-  "short_name": "homepage",
-  "name": "Home",
+  "short_name": "home",
+  "name": "Homepage",
   "description": "Core app for SIMS homepage",
   "version": "1.0.0",
   "core_app": true,
@@ -15,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue May 05 2026 12:29:28 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Tue May 05 2026 13:09:26 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"

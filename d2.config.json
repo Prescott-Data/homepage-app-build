@@ -1,7 +1,8 @@
 {
+  "id": "7809d6fb-7cdb-4161-89cf-cab404001c54",
   "type": "app",
-  "name": "homepage",
-  "title": "Home",
+  "name": "home",
+  "title": "Homepage",
   "description": "Core app for SIMS homepage",
   "coreApp": true,
   "minDHIS2Version": "2.41",
