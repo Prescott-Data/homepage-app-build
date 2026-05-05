@@ -1,0 +1,13 @@
+{
+  "type": "app",
+  "name": "homepage",
+  "title": "Homepage",
+  "description": "Core app for SIMS homepage",
+  "coreApp": true,
+  "minDHIS2Version": "2.41",
+  "viteConfigExtensions": "./viteConfigExtensions.mts",
+  "version": "1.0.0",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
